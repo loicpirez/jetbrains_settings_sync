@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-2.3.3-p222" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.3p0" />
+      <homePath value="/usr/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs23" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.3p0" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="/usr/bin" />
+    </jdk>
+  </component>
+</application>
